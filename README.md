@@ -1,4 +1,5 @@
-### Hi there my name is Deinis 👋
+### Hi there! 👋
+### My name is Deinis 
 ### and
 ### I'am a frontend developer.
 
