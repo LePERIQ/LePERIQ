@@ -6,7 +6,7 @@
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/den748/my-stack)
 ![StackShare](https://www.codewars.com/users/PERIQ/badges/micro)
 
-<div id="header" align="center">
+<div id="header" align="center" style={{backgroundColor: "white"}}>
   <img src="https://img.stackshare.io/service/1209/javascript.jpeg" width="30"/>
   <img src="https://img.stackshare.io/service/1612/bynNY5dJ.jpg" width="30"/>
   <img src="https://img.stackshare.io/service/2538/kEpgHiC9.png" width="30"/>
