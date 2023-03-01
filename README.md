@@ -3,7 +3,7 @@
 ### and
 ### I'am a frontend developer.
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/den748/my-stack)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/den748/my-stack)  https://www.codewars.com/users/PERIQ/badges/micro
 <!--
 **LePERIQ/LePERIQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
