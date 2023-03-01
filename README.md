@@ -1,6 +1,6 @@
 ### Hi there my name is Deinis 👋
 and
-I'am a frintend developer.
+I'am a frontend developer.
 
 
 <!--
