@@ -1,6 +1,6 @@
 ### Hi there my name is Deinis 👋
-and
-I'am a frontend developer.
+### and
+### I'am a frontend developer.
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/den748/my-stack)
 <!--
